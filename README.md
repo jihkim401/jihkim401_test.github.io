@@ -38,5 +38,19 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 
 ```
-**bold**: **bold**
+<markdown notes>
+1. bold: **bold**
+2. italic: *italic*
+3. link: [go to link](http://abc.com)
+3-1. image: ![image](src)
+4. header: # ~ ###### (h1~h6)
+5. numbered list: 1. 2. 3.
+6. unoredered list: - - - with indentation
+7. quote: > quote
+8. code block:
+```
+```python
+if blah blah:
+  return ture
+```
 ```
