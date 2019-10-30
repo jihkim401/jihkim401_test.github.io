@@ -1,8 +1,6 @@
 ---
 title: 생각하기 위한 생각을 기록하는 공간
 permalink: /about/
-toc_sticky: true
-toc_ad: true
 layout: single
 ---
 
